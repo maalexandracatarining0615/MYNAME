@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYNAME-OOP-CATARINING-BSCpE1-5", "MYNAME-OOP-CATARINING-BSCpE1-5.csproj", "{12DAC942-841E-4913-8FF7-06D6EFB26200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12DAC942-841E-4913-8FF7-06D6EFB26200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DAC942-841E-4913-8FF7-06D6EFB26200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DAC942-841E-4913-8FF7-06D6EFB26200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DAC942-841E-4913-8FF7-06D6EFB26200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF593E90-3FBA-4559-AE3D-A7F4AAC35755}
+	EndGlobalSection
+EndGlobal
